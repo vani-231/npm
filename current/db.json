@@ -1,0 +1,37 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Hamburger",
+      "price": 7,
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Ice Cream",
+      "price": 2.5,
+      "active": false
+    },
+    {
+      "id": "12",
+      "name": "sdsd",
+      "price": "1212"
+    },
+    {
+      "id": "18",
+      "name": "food",
+      "price": "123"
+    },
+    {
+      "id": 48,
+      "name": "first",
+      "price": 30,
+      "active": true
+    },
+    {
+      "id": "6",
+      "name": "chocos",
+      "price": "34"
+    }
+  ]
+}
